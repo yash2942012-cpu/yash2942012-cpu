@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Yash Kumar👋
 
 <!--
 **yash2942012-cpu/yash2942012-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
