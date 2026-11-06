@@ -1,8 +1,7 @@
-## Hi there, I'm Yash Kumar👋
+# Hi, I'm Yash Kumar
 
+I'm an 13 year old student maker from India 🇮🇳 who loves building things with electronics, microcontrollers, and a little bit of creativity.
 <!--
-**yash2942012-cpu/yash2942012-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
