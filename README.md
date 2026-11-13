@@ -1,6 +1,6 @@
 # Hi, I'm Yash Kumar
 
-I'm an 13 year old student maker from India 🇮🇳 who loves building things with electronics, microcontrollers, and a little bit of creativity.
+I'm an 14 year old student maker from India (🇮🇳) who loves building things with electronics, microcontrollers, and a little bit of creativity.
 <!--
 Here are some ideas to get you started:
 
